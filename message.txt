@@ -1,0 +1,42 @@
+svn://192.168.2.227/Greenline/apps/95169/95169_V2.0/branches/20120614_hrsws_bugfix_shenwr_dev/hrs-ws/source/com/p95169/hrs/ws/bjty
+
+无线城市
+svn://192.168.2.227/Greenline/apps/95169/95169_V2.0/主线/F-源代码--不再使用-用产品发布下/无线城市/wlc
+
+E:\Greenline\guahao\portal\web\guahao-portal-web-deploy\templates
+
+北京联通项目
+数据库  p95169_bj    lxbj123  192.168.1.15
+代码  svn://192.168.2.227/Greenline/apps/95169/95169_V2.0/branches/20120627_unicom_wlc/wlc_unicom
+
+vpn 命令 
+route add 192.168.1.0 mask 255.255.255.0 192.168.255.234
+
+开发常用信息 
+wlc 模板 C:/Users/Hero_Q/Desktop/Unicomwap/unicom/web/greenline-wlcunicom-web-deploy/templates
+wlc logs C:/Users/Hero_Q/Desktop/Unicomwap/unicom/logs
+
+万网
+churuiqi126@126.com  35713477
+
+530126198910040650 郑建云
+231025199001085213 付国庆
+362421198001010416 周翡
+
+19891004zjy
+
+YY
+420256376
+Fuguoqing1314
+
+administrator
+xargs
+
+vpn001
+guoqing.fu 2525258
+
+北京wap
+root fh21wap6306
+
+
+systemout 路径 /was/opt/WAS8/IBM/WebSphere/AppServer/profiles/AppSrv01/logs/server1

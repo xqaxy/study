@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1340679029362" ID="ID_1333873617" MODIFIED="1344911389179" TEXT="&#x672a;&#x5b8c;&#x6210;">
+<node CREATED="1340679029362" ID="ID_1333873617" MODIFIED="1345184918033" TEXT="mn">
 <node CREATED="1343630787751" ID="ID_141399686" MODIFIED="1343698539587" POSITION="right" TEXT="&#x4e0a;&#x6d77;cvs&#x4ee3;&#x7801;&#x8fc1;&#x79fb;">
 <icon BUILTIN="button_ok"/>
 </node>
@@ -32,6 +32,12 @@
 <node CREATED="1344827071465" ID="ID_324774777" MODIFIED="1344827083608" POSITION="right" TEXT="mvn &#x6df1;&#x5165;&#x5b66;&#x4e60;"/>
 <node CREATED="1344827084065" ID="ID_1373541739" MODIFIED="1344827095538" POSITION="right" TEXT="github clone&#x7684;&#x4ee3;&#x7801;&#x6574;&#x7406;"/>
 <node CREATED="1344836453935" ID="ID_531500982" MODIFIED="1344836474965" POSITION="right" TEXT="spring &#x6e90;&#x7801;&#x6df1;&#x5165;&#xff08;DI&#x90e8;&#x5206;&#xff09;"/>
+<node CREATED="1344924456631" HGAP="508" ID="ID_960691289" MODIFIED="1344992612795" POSITION="right" TEXT="&#x63a5;&#x53e3;bug&#x4fee;&#x590d;" VSHIFT="-72">
+<font NAME="SansSerif" SIZE="18"/>
+</node>
+<node CREATED="1344924834731" ID="ID_1703854411" MODIFIED="1344924844580" POSITION="right" TEXT="&#x6d4b;&#x8bd5;svn&#x652f;&#x6301;"/>
+<node CREATED="1345009946768" HGAP="428" ID="ID_1727165702" MODIFIED="1345009963693" POSITION="right" TEXT="open-service &#x751f;&#x4ea7;&#x73af;&#x5883;&#x53d1;&#x5e03;" VSHIFT="-36"/>
+<node CREATED="1344937909443" ID="ID_1538734809" MODIFIED="1344937921043" POSITION="right" TEXT="&#x6574;&#x7406;email"/>
 <node CREATED="1343698609692" ID="ID_745072757" MODIFIED="1343698626450" POSITION="left" TEXT="ora&#x9519;&#x8bef;&#xff0c;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6709;&#x95ee;&#x9898;"/>
 <node CREATED="1344235950142" ID="ID_1792098203" MODIFIED="1344235953875" POSITION="left" TEXT="jdk&#x6e90;&#x7801;&#x5b66;&#x4e60;(collection&#x6846;&#x67b6;&#x3001;&#x5e76;&#x53d1;&#x5305;&#x3001;io&#x7b49;)&#xff0c;&#x8981;&#x517b;&#x6210;&#x5e38;&#x770b;jdk&#x6e90;&#x7801;&#x7684;&#x4e60;&#x60ef;&#x3002;  &#x5982;&#x679c;&#x4f60;&#x5bf9;j2ee&#x611f;&#x5174;&#x8da3;&#xff0c;&#x53ef;&#x4ee5;&#x6309;&#x4ee5;&#x4e0b;&#x987a;&#x5e8f;:  tomcat(jetty) -&gt; struts2(spring mvc) -&gt; spring -&gt; ibatis(hibernate)&#x3002;  &#x5982;&#x679c;&#x80fd;&#x575a;&#x6301;&#x8bfb;&#x5b8c;&#x8fd9;&#x4e9b;&#x6838;&#x5fc3;&#x4ee3;&#x7801;&#xff0c;&#x76f8;&#x4fe1;&#x4f60;&#x7684;&#x5883;&#x754c;&#x4f1a;&#x518d;&#x4e0a;&#x4e00;&#x5c42;&#x3002;"/>
 <node CREATED="1344911390036" ID="ID_1706228491" MODIFIED="1344911408627" POSITION="left" TEXT="&#x81ea;&#x52a8;&#x5316;&#x63a5;&#x53e3;&#x5c31;&#x662f;&#x5f52;&#x6211;&#xff0c;&#x5fc5;&#x987b;&#x4ee3;&#x7801;&#x5403;&#x900f;"/>
